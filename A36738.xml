@@ -1,0 +1,248 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Dutchess of Monmouths lamentation for the loss of her Duke who hath been long absent, to the terror of her afflicted heart.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1683</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A36738</idno>
+            <idno type="STC">Wing D2425</idno>
+            <idno type="STC">ESTC R171849</idno>
+            <idno type="EEBO-CITATION">11779723</idno>
+            <idno type="OCLC">ocm 11779723</idno>
+            <idno type="VID">48987</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A36738)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 48987)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 489:25)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Dutchess of Monmouths lamentation for the loss of her Duke who hath been long absent, to the terror of her afflicted heart.</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by J. Millet,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1683]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>In verse.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Monmouth, James Scott, --  Duke of, 1649-1685 --  Poetry.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-07</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-07</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="poem">
+            <pb facs="tcp:48987:1"/>
+            <!-- PDF PAGE 1 -->
+            <pb facs="tcp:48987:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 1 -->
+            <head>THE DUTCHESS OF MONMOUTHS Lamentation FOR THE LOSS Of Her DUKE: <hi>VVho hath been long Abſent, to the terror of Her Afflicted Heart.</hi>
+            </head>
+            <l>AH! Princely <hi>Jemmy,</hi> thou art too Unkind,</l>
+            <l>To leave thy Mournful <hi>Dutcheſs</hi> here behind;</l>
+            <l>Unkind, I ſay, becauſe thou well did'ſt know,</l>
+            <l>For thy dear ſake, I through the World wou'd go.</l>
+            <lg>
+               <l>I once did think none could more Happy be,</l>
+               <l>Nor reap more Comforts in this World, than <hi>me,</hi>
+               </l>
+               <l>Now plung'd into the Gulph of Miſery.</l>
+            </lg>
+            <l>
+               <pb n="2" facs="tcp:48987:2"/>
+               <!-- PDF PAGE 2 -->
+Too cruel Fate; that wrought this ſudden change,</l>
+            <l>And cauſe my <hi>Jemmy</hi> in the world to range;</l>
+            <l>As if confin'd unto a <hi>Pilgrimage,</hi>
+            </l>
+            <l>Now in the <hi>flower</hi> and <hi>bloſſom</hi> of his <hi>age.</hi>
+            </l>
+            <l>But <hi>Fortune</hi> now I find doth fickle prove,</l>
+            <l>And on a ſudden did my Joys remove;</l>
+            <l>Turning my <hi>comforts</hi> into Seas of <hi>woe,</hi>
+            </l>
+            <l>O Heavens! can I theſe <hi>ſorrows</hi> undergo?</l>
+            <l>Or can I live and bear this Mortal pain,</l>
+            <l>To ſigh and wiſh for <hi>Jemmy</hi> all in vain?</l>
+            <lg>
+               <l>No, no, it is impoſſible for me,</l>
+               <l>Long to ſurvive, except my Love I ſee;</l>
+               <l>I faint my Dear, lo, here <hi>I</hi> dye for thee.</l>
+            </lg>
+            <l>When in my Bed I lye I cannot ſleep,</l>
+            <l>While others take their eaſe I mourn and weep:</l>
+            <l>'Twere better far for me, for to be Dead,</l>
+            <l>Than for thine abſence to be puniſhed</l>
+            <lg>
+               <l>With <hi>endleſs torments</hi> which I do endure,</l>
+               <l>Yea, paſt all hopes of any help or Cure;</l>
+               <l>Enough to kill a mournful Woman ſure.</l>
+            </lg>
+            <l>But for thine abſence though I doth Condole,</l>
+            <l>While thou art ſafe it comforteth my Soul;</l>
+            <l>And ſhould I hear that thou in Trouble wert,</l>
+            <l>Without all queſtion, it would break my heart.</l>
+            <l>It is not long ſince my dear <hi>Jemmy</hi>'s Name</l>
+            <l>Was carry'd far and near, on wings of Fame;</l>
+            <l>Which makes me wonder, that in ſuch a trice,</l>
+            <l>Thy <hi>vertues</hi> ſhould be turned into <hi>vice;</hi>
+            </l>
+            <l>And all thine Honours with ſuch hazard gain'd,</l>
+            <l>Be quite forgot; how are thy Vertues ſtain'd</l>
+            <l>
+               <pb n="3" facs="tcp:48987:2"/>
+               <!-- PDF PAGE 2 -->
+VVith <hi>black ingratitude?</hi> if it be ſo,</l>
+            <l>God and thy Conſcience beſt the <hi>truth</hi> doth know;</l>
+            <l>If not, what pitty 'tis that thou ſhould'ſt be</l>
+            <l>Accuſed of ſuch groſs <hi>Barbarity;</hi>
+            </l>
+            <l>VVhich wounds my Soul to think of, &amp; mine <hi>eye</hi>
+            </l>
+            <l>VVhen <hi>I</hi> thereof do pauſe, is never dry.</l>
+            <l>Ah! hapleſs VVoman, now thy Fate is cruel,</l>
+            <l>To loſe thy beſt and moſt beloved Jewel:</l>
+            <l>VVhat pleaſure is there in the world to thee?</l>
+            <l>Or wanting him, what can Delightful be?</l>
+            <l>Oh! that <hi>I</hi> could but this advantage have,</l>
+            <l>To ſigh my ſelf into the ſilent Grave;</l>
+            <l>There to lye ſleeping till <hi>Jehovah</hi>'s Trump,</l>
+            <l>Shall raiſe again my Putryfied Lump:</l>
+            <l>VVhen at Gods Great <hi>Tribunal</hi> I might ſee</l>
+            <l>My hearts delight, now gone and fled from me.</l>
+            <l>But why do I thus like the <hi>Dove</hi> complain?</l>
+            <l>Perhaps, in time, he may return again,</l>
+            <l>For to compleat my Bliſs, which if he do,</l>
+            <l>You Powers; how thankful ſhall I be to you!</l>
+            <l>How ſhould I ſtrive your mercies to applaud,</l>
+            <l>That did my Love preferve, and keep abroad;</l>
+            <l>VVhen thundering Cannons did about him Roar,</l>
+            <l>And I in fear my Love to ſee no more;</l>
+            <l>Then, then, propitious Fate to him was kind,</l>
+            <l>And ſent him back to eaſe my troubled mind;</l>
+            <l>So fill'd with Diſcontent, for fear that he,</l>
+            <l>In whom my Soul delighted, ſlain ſhould be.</l>
+            <l>But at the laſt he home return'd again,</l>
+            <l>VVhich eas'd my heart, and baniſht all my pain.</l>
+            <l>
+               <pb n="4" facs="tcp:48987:3" rendition="simple:additions"/>
+               <!-- PDF PAGE 3 -->
+And when I thought my ſelf from danger free,</l>
+            <l>A further Croſs was then attending me;</l>
+            <l>Which now hath ſeiz'd upon my tender heart,</l>
+            <l>Oppreſs'd with grief, I'm ready to depart</l>
+            <l>Out of this ſinful World, ſo full of change,</l>
+            <l>That greateſt Friends grow in a moment ſtrange;</l>
+            <l>And ſmiling Fortune in a trice will frown,</l>
+            <l>Yea, from the heigth of Honour tumble down</l>
+            <l>The worlds great Favourites, that little think,</l>
+            <l>The turns of Fate could ever make them ſink.</l>
+            <l>But ah! too well I to my ſorrow know,</l>
+            <l>And ſad Experience doth acquaint me ſo;</l>
+            <l>That there is nothing underneath the Sun</l>
+            <l>That's ſtable, no, this, this hath me undone:</l>
+            <l>Never was ſuch a change in <hi>Europe</hi> known,</l>
+            <l>As is in me, ſince my Delights are flown.</l>
+            <l>But why do <hi>I</hi> thus prattle of Delights?</l>
+            <l>My <hi>Sun-ſhine</hi> Days are turned into Nights;</l>
+            <l>And <hi>I</hi> in Darkneſs ſit for to lament,</l>
+            <l>The cauſe of which my Love from me was ſent:</l>
+            <l>A dreadful and inhumane <hi>Plot,</hi> ſome ſay,</l>
+            <l>Was the occaſion <hi>Jemmy</hi> went away;</l>
+            <l>Which if it were, will add unto my trouble.</l>
+            <l>And my poor heart will be afflicted double.</l>
+            <l>O Heavens forbid that e're my Love ſhould be,</l>
+            <l>So Wicked as to act ſuch Villany!</l>
+            <l>But if he were by <hi>Traytors</hi> thus drawn in,</l>
+            <l>
+               <hi>I</hi> hope you will forgive this deadly Sin.</l>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>Licenſed and Entred according to Order.</hi>
+            </p>
+            <p>
+               <hi>London,</hi> Printed by <hi>J. Millet,</hi> in the year 1683.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
